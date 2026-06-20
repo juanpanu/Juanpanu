@@ -12,9 +12,7 @@
 
 <hr>
 
-I turn ambiguous business questions into well-governed data products — from stakeholder alignment and modeling to delivery and monitoring. I care about pipelines that don't break at 3am, data that people actually trust, and code that future teammates can read.
-
-Lately I've been deep in AI-augmented engineering: building scaffolding, evals and harness workflows that make AI a dependable teammate for data work — not just a fancy autocomplete.
+Data work is mostly a translation problem. I translate between what the business needs and what the platform can reliably do — and I've been doing that long enough to know where the real complexity hides. Also deep into AI tooling lately: not the hype side, the engineering side.
 
 <hr>
 
