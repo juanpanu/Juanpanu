@@ -22,45 +22,43 @@ Lately the focus has shifted toward AI tooling. Not the hype side — the engine
 
 <h3>🛠 Stack</h3>
 
-<table>
-  <tr>
-    <td><strong>Languages</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=black" />
-      <img src="https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=scala&logoColor=white" />
-      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Platforms</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" />
-      <img src="https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
-      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-    </td>
-  </tr>
-  <tr>
-    <td><strong>AI tooling</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Claude_Code-000000?style=flat-square&logo=anthropic&logoColor=white" />
-      <img src="https://img.shields.io/badge/Harness_engineering-5C5C5C?style=flat-square" />
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Tools</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Git-F05133?style=flat-square&logo=git&logoColor=white" />
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-      <img src="https://img.shields.io/badge/Terminal-000000?style=flat-square&logo=gnu-bash&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Practices</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Data_modeling-6DB33F?style=flat-square" />
-      <img src="https://img.shields.io/badge/ETL%2FELT-0D1117?style=flat-square" />
-      <img src="https://img.shields.io/badge/Governance-3178C6?style=flat-square" />
-      <img src="https://img.shields.io/badge/Testing-CB3837?style=flat-square" />
-    </td>
-  </tr>
-</table>
+<p><sub>── Languages</sub><br>
+<img src="https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=black" />
+<img src="https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=scala&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+</p>
+
+<p><sub>── Platforms</sub><br>
+<img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" />
+<img src="https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+</p>
+
+<p><sub>── Tools</sub><br>
+<img src="https://img.shields.io/badge/Git-F05133?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Terminal-000000?style=flat-square&logo=gnu-bash&logoColor=white" />
+</p>
+
+<p><sub>── Practices</sub><br>
+<img src="https://img.shields.io/badge/Data_modeling-6DB33F?style=flat-square" />
+<img src="https://img.shields.io/badge/ETL%2FELT-0D1117?style=flat-square" />
+<img src="https://img.shields.io/badge/Governance-3178C6?style=flat-square" />
+<img src="https://img.shields.io/badge/Testing-CB3837?style=flat-square" />
+</p>
+
+<hr>
+
+<h3>📍 Currently focused on</h3>
+
+<p><sub>── AI engineering</sub><br>
+<img src="https://img.shields.io/badge/Claude_Code-000000?style=flat-square&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/Harness_engineering-5C5C5C?style=flat-square" />
+<img src="https://img.shields.io/badge/Evals-5C5C5C?style=flat-square" />
+<img src="https://img.shields.io/badge/Scaffolding-5C5C5C?style=flat-square" />
+</p>
+
+<p><sub>── Data at scale</sub><br>
+<img src="https://img.shields.io/badge/Pipeline_optimization-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
+<img src="https://img.shields.io/badge/Platform_tooling-FF3621?style=flat-square&logo=databricks&logoColor=white" />
+</p>
