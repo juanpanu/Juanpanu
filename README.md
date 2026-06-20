@@ -23,21 +23,21 @@ Lately the focus has shifted toward AI tooling. Not the hype side — the engine
 <h3>🛠 Stack</h3>
 
 <p>
-  <sub>── languages</sub><br>
+  <img src="https://img.shields.io/badge/languages-444?style=flat-square" /><br>
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black" />
   <img src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
 <p>
-  <sub>── platforms</sub><br>
+  <img src="https://img.shields.io/badge/platforms-444?style=flat-square" /><br>
   <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
   <img src="https://img.shields.io/badge/Apache Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
   <img src="https://img.shields.io/badge/Power BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 </p>
 
 <p>
-  <sub>── tools</sub><br>
+  <img src="https://img.shields.io/badge/tools-444?style=flat-square" /><br>
   <img src="https://img.shields.io/badge/Git-F05133?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
@@ -45,7 +45,7 @@ Lately the focus has shifted toward AI tooling. Not the hype side — the engine
 </p>
 
 <p>
-  <sub>── practices</sub><br>
+  <img src="https://img.shields.io/badge/practices-444?style=flat-square" /><br>
   <img src="https://img.shields.io/badge/Data modeling-20232A?style=for-the-badge" />
   <img src="https://img.shields.io/badge/ETL · ELT-20232A?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Governance-20232A?style=for-the-badge" />
@@ -57,7 +57,7 @@ Lately the focus has shifted toward AI tooling. Not the hype side — the engine
 <h3>📍 Currently focused on</h3>
 
 <p>
-  <sub>── ai engineering</sub><br>
+  <img src="https://img.shields.io/badge/ai engineering-444?style=flat-square" /><br>
   <img src="https://img.shields.io/badge/Claude Code-000000?style=for-the-badge&logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/Harness engineering-20232A?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Evals-20232A?style=for-the-badge" />
@@ -65,7 +65,7 @@ Lately the focus has shifted toward AI tooling. Not the hype side — the engine
 </p>
 
 <p>
-  <sub>── data at scale</sub><br>
+  <img src="https://img.shields.io/badge/data at scale-444?style=flat-square" /><br>
   <img src="https://img.shields.io/badge/Pipeline optimization-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
   <img src="https://img.shields.io/badge/Platform tooling-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
 </p>
@@ -75,6 +75,5 @@ Lately the focus has shifted toward AI tooling. Not the hype side — the engine
 <h3>📊 Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juanpanu&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&hide_title=true" height="165" />
   <img src="https://streak-stats.demolab.com?user=juanpanu&theme=tokyonight&hide_border=true" height="165" />
 </p>
