@@ -12,7 +12,11 @@
 
 <hr>
 
-Data work is mostly a translation problem. I translate between what the business needs and what the platform can reliably do — and I've been doing that long enough to know where the real complexity hides. Also deep into AI tooling lately: not the hype side, the engineering side.
+I've been around data systems long enough to have seen a few hype cycles. Started on the infrastructure and support side — ERPs, system monitoring, the unglamorous stuff — which gave me a grounding that most data people don't have. Moved into engineering from there: pipelines, dashboards, ETL work across APIs and databases.
+
+For the last few years I've been doing analytics engineering at scale — end-to-end, from stakeholder alignment and data modeling to delivery, monitoring and governance across multiple business domains. The job is mostly a translation problem: between what the business actually needs and what the platform can reliably do.
+
+Lately the focus has shifted toward AI tooling. Not the hype side — the engineering side: scaffolding, evals, harness workflows. The kind of work that makes AI a dependable part of how a data team actually operates.
 
 <hr>
 
